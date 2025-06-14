@@ -12,7 +12,9 @@ Dibuat menggunakan **Java Swing + MySQL**.
 ## 🚀 Cara Menjalankan
 
 ### 1. Clone Repo
+```bash
 git clone https://github.com/haiitsmee/java-swing-crud.git
+```
 
 ### 2. Setup Database
 - Buka folder database/ di repo ini
